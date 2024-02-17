@@ -1,0 +1,13 @@
+{
+  "name": "studon_autologin",
+  "version": "1.2",
+  "description": "A small addon to automatically log you into studon.fau.de once you visit the site two save you the two annoying clicks",
+  "main": "login.js",
+  "repository": "git@github.com:neferin12/studon_autologin.git",
+  "author": "Julian Pollinger <julian@pollinger.dev>",
+  "license": "MIT",
+  "packageManager": "yarn@4.1.0",
+  "devDependencies": {
+    "web-ext": "^7.11.0"
+  }
+}
