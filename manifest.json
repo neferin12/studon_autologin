@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Studon Autologin",
-  "version": "1.1",
+  "version": "1.2",
 
   "description": "Automatically start the login process for Studon. (Saves you !two! clicks)",
 
