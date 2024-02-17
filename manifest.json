@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Studon Autologin",
-  "version": "1.2",
+  "version": "1.3",
 
   "description": "Automatically start the login process for Studon. (Saves you !two! clicks)",
 
@@ -11,6 +11,13 @@
       "matches": ["*://*.studon.fau.de/*"],
       "js": ["login.js"]
     }
-  ]
+  ],
+
+  "icons": {
+    "48": "icons/logo_48.png",
+    "128": "icons/logo_128.png",
+    "256": "icons/logo_256.png",
+    "512": "icons/logo_512.png"
+  }
 
 }
